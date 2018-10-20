@@ -6,6 +6,7 @@ asn1crypto==0.24.0
 astroid==1.6.3
 astropy==3.0.2
 attrs==18.1.0
+awsebcli==3.14.6
 Babel==2.5.3
 backcall==0.1.0
 backports.shutil-get-terminal-size==1.0.0
@@ -14,9 +15,13 @@ bitarray==0.8.1
 bkcharts==0.2
 blaze==0.11.3
 bleach==2.1.3
+blessed==1.15.0
 bokeh==0.12.16
 boto==2.48.0
+botocore==1.12.28
 Bottleneck==1.2.1
+cached-property==1.5.1
+cement==2.8.2
 certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
@@ -37,6 +42,11 @@ datashape==0.5.4
 decorator==4.3.0
 distributed==1.21.8
 Django==2.1.1
+docker==3.5.1
+docker-compose==1.21.2
+docker-pycreds==0.3.0
+dockerpty==0.4.1
+docopt==0.6.2
 docutils==0.14
 entrypoints==0.2.3
 et-xmlfile==1.0.1
@@ -63,6 +73,7 @@ itsdangerous==0.24
 jdcal==1.4
 jedi==0.12.0
 Jinja2==2.10
+jmespath==0.9.3
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
@@ -106,6 +117,7 @@ parso==0.2.0
 partd==0.3.8
 path.py==11.0.1
 pathlib2==2.3.2
+pathspec==0.5.5
 patsy==0.5.0
 pep8==1.7.1
 pexpect==4.5.0
@@ -152,6 +164,7 @@ scikit-image==0.13.1
 scikit-learn==0.19.1
 scipy==1.1.0
 seaborn==0.8.1
+semantic-version==2.5.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 simplejson==3.15.0
@@ -168,8 +181,10 @@ statsmodels==0.9.0
 sympy==1.1.1
 tables==3.4.3
 tblib==1.3.2
+termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
+texttable==0.9.1
 toolz==0.9.0
 tornado==5.0.2
 traitlets==4.3.2
@@ -179,6 +194,7 @@ unicodecsv==0.14.1
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
+websocket-client==0.53.0
 Werkzeug==0.14.1
 widgetsnbextension==3.2.1
 wrapt==1.10.11
